@@ -1,4 +1,4 @@
-![counter](https://gungdd120.m.pipedream.net)
+![](https://komarev.com/ghpvc/?username=gungde120)
 
 <!--
 **gungde120/gungde120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
